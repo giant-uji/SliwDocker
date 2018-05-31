@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -d -p 80:8080 --link elasticsearch-instance:elasticsearch --name webmanager-instance sliw/webmanager:1.0
+docker run -d --network controlnet -p 8090:80 --link elasticsearch-control:elasticsearch --name webmanager-control sliw/webmanager-test:1.0

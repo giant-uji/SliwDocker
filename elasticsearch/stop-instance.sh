@@ -1,2 +1,2 @@
 #!/bin/bash
-docker stop elasticsearch-instance
+docker stop elasticsearch-control

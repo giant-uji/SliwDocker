@@ -1,2 +1,2 @@
 #!/bin/bash
-docker stop webmanager-instance
+docker stop webmanager-control

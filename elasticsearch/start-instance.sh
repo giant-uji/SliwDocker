@@ -1,2 +1,2 @@
 #!/bin/bash
-docker start elasticsearch-instance
+docker start elasticsearch-control

@@ -1,2 +1,2 @@
 #!/bin/bash
-docker start webmanager-instance
+docker start webmanager-control

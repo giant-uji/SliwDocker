@@ -1,2 +1,2 @@
 #!/bin/bash
-docker start server-instance
+docker start server-control

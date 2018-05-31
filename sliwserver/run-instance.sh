@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -d --link elasticsearch-instance:elasticsearch --link apache-apollo-instance:apache-apollo --name server-instance sliw/server:1.0
+docker run -d  --network controlnet --link elasticsearch-control:elasticsearch --link apache-apollo-instance:apache-apollo --name server-control sliw/server-test:1.0

@@ -1,2 +1,2 @@
 #!/bin/bash
-docker rm -f server-instance
+docker rm -f server-control

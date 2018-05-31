@@ -1,2 +1,2 @@
 #!/bin/bash
-docker rm -f elasticsearch-data
+docker rm -f elasticsearch-data-control
