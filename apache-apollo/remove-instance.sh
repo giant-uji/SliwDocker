@@ -1,2 +1,2 @@
 #!/bin/bash
-docker rm -f apache-apollo-instance
+docker rm -f apache-apollo-control

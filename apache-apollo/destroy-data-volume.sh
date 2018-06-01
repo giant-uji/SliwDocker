@@ -1,2 +1,2 @@
 #!/bin/bash
-docker rm -f apache-apollo-data
+docker rm -f apache-apollo-data-control

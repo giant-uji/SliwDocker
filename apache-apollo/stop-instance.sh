@@ -1,2 +1,2 @@
 #!/bin/bash
-docker stop apache-apollo-instance
+docker stop apache-apollo-control

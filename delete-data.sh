@@ -2,8 +2,8 @@
 sliwserver/stop-instance.sh
 sleep 1
 
-#apache-apollo/stop-instance.sh
-#sleep 1
+apache-apollo/stop-instance.sh
+sleep 1
 
 sliwwebmanager/stop-instance.sh
 sleep 1
@@ -25,8 +25,8 @@ sliwwebmanager/build-image.sh
 sliwwebmanager/run-instance.sh
 sleep 5
 
-#apache-apollo/start-instance.sh
-#sleep 5
+apache-apollo/start-instance.sh
+sleep 5
 
 sliwserver/remove-instance.sh
 sliwserver/build-image.sh
