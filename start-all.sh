@@ -9,5 +9,3 @@ sleep 2
 #sleep 2
 
 sliwserver/start-instance.sh
-
-
