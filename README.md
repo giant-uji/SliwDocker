@@ -1,3 +1,6 @@
+# IMPORTANTE
+Este repositorio se ha dejado de mantener con fecha de 3 de mayo de 2023
+
 # SliwDocker 1.0
 
 SliwDocker contiene los scripts necesarios para el despliegue de Sliw usando Docker.
